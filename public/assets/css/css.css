@@ -1,0 +1,12 @@
+body{
+    background-image:url(../img/Summoners_Rift.jpg);
+    background-attachment:fixed;
+}
+
+.links a{
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+#addC{
+    margin-bottom:40px;
+}
